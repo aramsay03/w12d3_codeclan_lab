@@ -1,4 +1,5 @@
 import Vehicle.Car;
+import Vehicle.Petrol;
 
 import java.util.ArrayList;
 
@@ -24,5 +25,13 @@ public class Customer {
 
     public double getMoney() {
         return money;
+    }
+
+    public void addVehicle(Car car) {
+        this.vehicles.add(car);
+    }
+
+    public void reduceMoney(Double amount) {
+        this.money -= amount;
     }
 }

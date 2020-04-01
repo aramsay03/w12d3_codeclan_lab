@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8404692-ce80-4cc1-8303-e83c6d964aad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/PetrolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Vehicle/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Vehicle/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Vehicle/Petrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Vehicle/Petrol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TyreSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TyreSetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Components/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Components/TyreSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Vehicle/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Vehicle/Electric.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Vehicle/Hybrid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Vehicle/Petrol.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/EngineTest.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dealership.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DealershipTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Vehicle/Electric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Vehicle/Electric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Vehicle/Hybrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Vehicle/Hybrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Vehicle/Electric.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Vehicle/Electric.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Vehicle/Hybrid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Vehicle/Hybrid.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,21 +85,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585748405416">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585751284153">
+      <screen x="0" y="0" width="1440" height="844" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-277.-1080.1920.1080@0.0.1440.900" timestamp="1585748405416" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585748405413">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.844/-277.-1057.1920.1057@0.0.1440.844" timestamp="1585751284153" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-277.-1080.1920.1080@0.0.1440.900" timestamp="1585749997334" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585751284152">
+      <screen x="0" y="0" width="1440" height="844" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-277.-1080.1920.1080@0.0.1440.900" timestamp="1585748405413" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585748405411">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.844/-277.-1057.1920.1057@0.0.1440.844" timestamp="1585751284152" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-277.-1080.1920.1080@0.0.1440.900" timestamp="1585749997331" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585751284151">
+      <screen x="0" y="0" width="1440" height="844" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-277.-1080.1920.1080@0.0.1440.900" timestamp="1585748405411" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585748405415">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.844/-277.-1057.1920.1057@0.0.1440.844" timestamp="1585751284151" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-277.-1080.1920.1080@0.0.1440.900" timestamp="1585749997330" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585751284152">
+      <screen x="0" y="0" width="1440" height="844" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-277.-1080.1920.1080@0.0.1440.900" timestamp="1585748405415" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.844/-277.-1057.1920.1057@0.0.1440.844" timestamp="1585751284152" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-277.-1080.1920.1080@0.0.1440.900" timestamp="1585749997333" />
   </component>
 </project>
